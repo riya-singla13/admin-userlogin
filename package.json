@@ -1,0 +1,21 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/basic": "^7.0.2",
+    "@hapi/boom": "^10.0.1",
+    "@hapi/hapi": "^21.3.2",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "hapi-auth-bearer-token": "^8.0.0",
+    "joi": "^17.10.1",
+    "mongoose": "^7.5.1"
+  }
+}
